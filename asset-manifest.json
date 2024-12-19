@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PrinseSasuke/react_money_deploy/static/css/main.1520ceea.css",
+    "main.js": "/PrinseSasuke/react_money_deploy/static/js/main.32f12d7b.js",
+    "static/js/453.736344a7.chunk.js": "/PrinseSasuke/react_money_deploy/static/js/453.736344a7.chunk.js",
+    "index.html": "/PrinseSasuke/react_money_deploy/index.html",
+    "main.1520ceea.css.map": "/PrinseSasuke/react_money_deploy/static/css/main.1520ceea.css.map",
+    "main.32f12d7b.js.map": "/PrinseSasuke/react_money_deploy/static/js/main.32f12d7b.js.map",
+    "453.736344a7.chunk.js.map": "/PrinseSasuke/react_money_deploy/static/js/453.736344a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1520ceea.css",
+    "static/js/main.32f12d7b.js"
+  ]
+}
