@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react_money_deploy/static/css/main.1520ceea.css",
-    "main.js": "/react_money_deploy/static/js/main.dcb40b13.js",
+    "main.js": "/react_money_deploy/static/js/main.f22d02b7.js",
     "static/js/453.736344a7.chunk.js": "/react_money_deploy/static/js/453.736344a7.chunk.js",
     "index.html": "/react_money_deploy/index.html",
     "main.1520ceea.css.map": "/react_money_deploy/static/css/main.1520ceea.css.map",
-    "main.dcb40b13.js.map": "/react_money_deploy/static/js/main.dcb40b13.js.map",
+    "main.f22d02b7.js.map": "/react_money_deploy/static/js/main.f22d02b7.js.map",
     "453.736344a7.chunk.js.map": "/react_money_deploy/static/js/453.736344a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1520ceea.css",
-    "static/js/main.dcb40b13.js"
+    "static/js/main.f22d02b7.js"
   ]
 }
